@@ -1,0 +1,3 @@
+[submodule "equipe7"]
+	path = equipe7
+	url = git@github.com:Kurdyk/Hackaton-DGFiP.git
